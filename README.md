@@ -1,7 +1,7 @@
-getdata-007
+README: Getting and Cleaning Data Course Project
 ===========
 
-Getting and Cleaning Data Course Project:
+
 
 Source Data Files
 -----------------
@@ -15,7 +15,7 @@ Data Analysis Script
 The file [run_analysis.R](/run_analysis.R) will download the source dataset if it is not present, perform data transformations, and output a tidy set according to the project specifications.
 
 [CodeBook.md](/CodeBook.md) describes the source,methods, and output in detail.
-
+:
 
 Output Files
 ------------
