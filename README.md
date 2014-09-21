@@ -5,7 +5,7 @@ README: Getting and Cleaning Data Course Project
 
 Source Data Files
 -----------------
-Source data for procesissing can be found in the project directory: [/UCI%20HAR%20Dataset](/UCI%20HAR%20Dataset)
+Source data for procesissing can be found in the project directory: [/UCI%20HAR%20Dataset](/UCI%20HAR%20Dataset). This directory must be in your working directory for the data analysis script to process it.
 
 
 
