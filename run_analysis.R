@@ -44,6 +44,7 @@ y <- merge(y, activityLabels, by = 1)[, 2] #merge activity labels
 
 data <- cbind(subject, y, x) #column bind subject/data/activities together
 names(data)[2] <- "label"  #name the activity label variable
+write.table(data, file="data.txt", row.name=FALSE) ##write data to file with row.name=FALSE
 
 ## Now we can get to #2
 ## 2. Extracts only the measurements on the mean and standard deviation for each measurement.
